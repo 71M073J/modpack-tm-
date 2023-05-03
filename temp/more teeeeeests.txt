@@ -8,3 +8,4 @@ https://www.curseforge.com/minecraft/mc-mods/packagedauto
 https://www.curseforge.com/minecraft/mc-mods/amplified-nether
 https://www.curseforge.com/minecraft/mc-mods/betternether
 https://www.curseforge.com/minecraft/mc-mods/distant-horizons
+https://www.curseforge.com/minecraft/mc-mods/reauth
